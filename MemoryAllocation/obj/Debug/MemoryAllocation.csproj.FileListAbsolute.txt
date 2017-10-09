@@ -1,0 +1,9 @@
+c:\users\magdeldin\documents\visual studio 2013\Projects\MemoryAllocation\MemoryAllocation\bin\Debug\MemoryAllocation.exe.config
+c:\users\magdeldin\documents\visual studio 2013\Projects\MemoryAllocation\MemoryAllocation\bin\Debug\MemoryAllocation.exe
+c:\users\magdeldin\documents\visual studio 2013\Projects\MemoryAllocation\MemoryAllocation\bin\Debug\MemoryAllocation.pdb
+c:\users\magdeldin\documents\visual studio 2013\Projects\MemoryAllocation\MemoryAllocation\obj\Debug\MemoryAllocation.Memory.resources
+c:\users\magdeldin\documents\visual studio 2013\Projects\MemoryAllocation\MemoryAllocation\obj\Debug\MemoryAllocation.Properties.Resources.resources
+c:\users\magdeldin\documents\visual studio 2013\Projects\MemoryAllocation\MemoryAllocation\obj\Debug\MemoryAllocation.csproj.GenerateResource.Cache
+c:\users\magdeldin\documents\visual studio 2013\Projects\MemoryAllocation\MemoryAllocation\obj\Debug\MemoryAllocation.exe
+c:\users\magdeldin\documents\visual studio 2013\Projects\MemoryAllocation\MemoryAllocation\obj\Debug\MemoryAllocation.pdb
+c:\users\magdeldin\documents\visual studio 2013\Projects\MemoryAllocation\MemoryAllocation\obj\Debug\MemoryAllocation.csprojResolveAssemblyReference.cache

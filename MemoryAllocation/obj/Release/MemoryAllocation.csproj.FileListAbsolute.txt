@@ -1,0 +1,9 @@
+C:\Users\MagdEldin\Documents\Visual Studio 2013\Projects\MemoryAllocation\MemoryAllocation\bin\Release\MemoryAllocation.exe.config
+C:\Users\MagdEldin\Documents\Visual Studio 2013\Projects\MemoryAllocation\MemoryAllocation\bin\Release\MemoryAllocation.exe
+C:\Users\MagdEldin\Documents\Visual Studio 2013\Projects\MemoryAllocation\MemoryAllocation\bin\Release\MemoryAllocation.pdb
+C:\Users\MagdEldin\Documents\Visual Studio 2013\Projects\MemoryAllocation\MemoryAllocation\obj\Release\MemoryAllocation.csprojResolveAssemblyReference.cache
+C:\Users\MagdEldin\Documents\Visual Studio 2013\Projects\MemoryAllocation\MemoryAllocation\obj\Release\MemoryAllocation.Memory.resources
+C:\Users\MagdEldin\Documents\Visual Studio 2013\Projects\MemoryAllocation\MemoryAllocation\obj\Release\MemoryAllocation.Properties.Resources.resources
+C:\Users\MagdEldin\Documents\Visual Studio 2013\Projects\MemoryAllocation\MemoryAllocation\obj\Release\MemoryAllocation.csproj.GenerateResource.Cache
+C:\Users\MagdEldin\Documents\Visual Studio 2013\Projects\MemoryAllocation\MemoryAllocation\obj\Release\MemoryAllocation.exe
+C:\Users\MagdEldin\Documents\Visual Studio 2013\Projects\MemoryAllocation\MemoryAllocation\obj\Release\MemoryAllocation.pdb
